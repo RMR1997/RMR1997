@@ -67,10 +67,10 @@ echo "\n\e[93m _   _
 |  _  | (_| | (__
 |_| |_|\__,_|\___|
 \e[36m===========\e[91m>>>>>>>>>>\n\e[36mAuthor  : Rizki Maulana
-Recode  : Cvar1984
+Recode  : RMR1997
 Code    : PHP
-Github  : http://github.com/Cvar1984
-Team    : Blackhole Security
+Github  : http://github.com/RMR1997
+Team    : GreatGoodFine
 Version : 2.0 ( Alpha )
 Date    : 9-01-2018
 \e[36m===========\e[91m>>>>>>>>>>";
