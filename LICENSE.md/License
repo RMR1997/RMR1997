@@ -1,0 +1,2 @@
+git remote add origin https://github.com/RMR1997/RMR1997.git
+git push -u origin master
